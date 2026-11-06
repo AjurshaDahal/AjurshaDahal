@@ -7,7 +7,6 @@
 <div align="center">
 
 <img width="2656" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/c79c0c3c-3b27-447f-971b-34346d0ac708" />
-)
 
 <a href="https://github.com/AjurshaDahal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=650&lines=Building+things+with+Python+%26+AI;Exploring+Machine+Learning+%26+Intelligent+Systems;Learning+by+building%2C+one+project+at+a+time" alt="Typing SVG" />

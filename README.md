@@ -213,8 +213,12 @@ I also enjoy working with people, organizing initiatives, and collaborating on a
 
 <div align="center">
 
-<img width="3352" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/de943141-c93f-4c3d-9a99-72d294c75055" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AjurshaDahal&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjurshaDahal&layout=compact&theme=gruvbox&hide_border=true" />
 
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=AjurshaDahal&theme=gruvbox&hide_border=true" />
 
 <br/>
 

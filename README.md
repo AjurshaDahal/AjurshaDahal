@@ -218,10 +218,6 @@ I also enjoy working with people, organizing initiatives, and collaborating on a
 
 <br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=AjurshaDahal&theme=gruvbox&hide_border=true" />
-
-<br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AjurshaDahal&theme=gruvbox&hide_border=true&area=true" />
 
 </div>
@@ -252,6 +248,6 @@ I'm always happy to connect with people who enjoy technology, learning, and buil
 
 *Curious mind. Continuous learning. Meaningful building.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=100&section=footer" width="100%" />
+<img width="3352" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/60e42e98-9c91-42c8-a86c-7035c6fe6ca5" />
 
 </div>

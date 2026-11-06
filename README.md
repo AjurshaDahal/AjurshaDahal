@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Header](./<img width="2656" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/c79c0c3c-3b27-447f-971b-34346d0ac708" />
+<img width="2656" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/c79c0c3c-3b27-447f-971b-34346d0ac708" />
 )
 
 <a href="https://github.com/AjurshaDahal">

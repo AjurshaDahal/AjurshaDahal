@@ -9,7 +9,7 @@
 <img width="2656" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/c79c0c3c-3b27-447f-971b-34346d0ac708" />
 
 <a href="https://github.com/AjurshaDahal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=650&lines=Building+things+with+Python+%26+AI;Exploring+Machine+Learning+%26+Intelligent+Systems;Learning+by+building%2C+one+project+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=650&lines=Building+things+with+Python+%26+AI;Exploring+Machine+Learning+%26+ML+Models;Learning+by+building%2C+one+project+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,29 +31,6 @@ I'm interested in building intelligent applications and exploring how AI and mac
 
 My experience spans Python-based development, machine learning, computer vision, and backend development. I enjoy understanding how systems work, experimenting with technologies, and turning concepts into working projects.
 
-```python
-class Ajursha:
-    def __init__(self):
-        self.location = "Kathmandu, Nepal"
-        self.education = "B.Sc. Computer Science"
-        self.university = "Kathmandu University"
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Applied AI",
-            "Software Development"
-        ]
-
-        self.current_focus = [
-            "Building practical AI applications",
-            "Strengthening Python fundamentals",
-            "Learning system design and deployment"
-        ]
-
-    def say_hello(self):
-        return "Always learning. Always building."
-```
 
 ---
 

@@ -1,17 +1,18 @@
 
-<h1 align="center">Hi, I'm Ajursha Dahal 🌿</h1>
 
-<h3 align="center">AI/ML Enthusiast | Computer Science Undergraduate</h3>
-
-<p align="center">
-  Kathmandu, Nepal
-</p>
-
-<p align="center">
-  <a href="https://github.com/AjurshaDahal">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ajursha-dahal-702a8036b/">LinkedIn</a> •
-  <a href="mailto:ajursha@gmail.com">Email</a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" bgcolor="#E8EEE5">
+        <br/>
+        <h1>Ajursha Dahal 🌿</h1>
+        <h3>AI/ML Enthusiast | Computer Science Undergraduate</h3>
+        <p>Kathmandu, Nepal</p>
+        <br/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

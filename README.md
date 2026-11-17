@@ -74,16 +74,6 @@ I'm a Computer Science undergraduate at Kathmandu University with an interest in
 - AWS Cloud Technical Essentials — Coursera
 - Architecting Solutions on AWS — Coursera
 - Introduction to AI — Coursera
-
----
-
-### 📊 GitHub Statistics
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AjurshaDahal "><img src="https://github-readme-stats.vercel.app/api?username=AjurshaDahal &show_icons=true&hide=&count_private=true&title_color=10b981&text_color=facc15&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="AjurshaDahal 's GitHub stats" /></a>
-
-<a href="http://www.github.com/AjurshaDahal "><img src="https://github-readme-streak-stats.herokuapp.com/?user=AjurshaDahal &stroke=facc15&background=ffffff&ring=10b981&fire=10b981&currStreakNum=facc15&currStreakLabel=10b981&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 ---
 
 <p align="center">

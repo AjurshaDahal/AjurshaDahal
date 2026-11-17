@@ -1,11 +1,10 @@
 
-
 <div align="center">
   <table>
     <tr>
-      <td align="center" bgcolor="#E8EEE5">
+      <td align="center" bgcolor="#FCE4EC">
         <br/>
-        <h1>Ajursha Dahal 🌿</h1>
+        <h1>Ajursha Dahal ♡</h1>
         <h3>AI/ML Enthusiast | Computer Science Undergraduate</h3>
         <p>Kathmandu, Nepal</p>
         <br/>
@@ -13,7 +12,6 @@
     </tr>
   </table>
 </div>
-
 ---
 
 ### 🌱 About Me

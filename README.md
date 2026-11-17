@@ -79,11 +79,11 @@ I'm a Computer Science undergraduate at Kathmandu University with an interest in
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjurshaDahal&show_icons=true&hide_border=true&bg_color=F5F2EA&title_color=536B55&icon_color=718A72&text_color=5F665F" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjurshaDahal&layout=compact&hide_border=true&bg_color=F5F2EA&title_color=536B55&text_color=5F665F" height="165"/>
-</p>
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/AjurshaDahal "><img src="https://github-readme-stats.vercel.app/api?username=AjurshaDahal &show_icons=true&hide=&count_private=true&title_color=10b981&text_color=facc15&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="AjurshaDahal 's GitHub stats" /></a>
+
+<a href="http://www.github.com/AjurshaDahal "><img src="https://github-readme-streak-stats.herokuapp.com/?user=AjurshaDahal &stroke=facc15&background=ffffff&ring=10b981&fire=10b981&currStreakNum=facc15&currStreakLabel=10b981&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 ---
 
 <p align="center">
